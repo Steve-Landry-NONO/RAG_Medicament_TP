@@ -1,0 +1,8 @@
+pandas
+openpyxl
+numpy
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+streamlit
